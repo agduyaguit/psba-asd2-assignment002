@@ -290,6 +290,11 @@ Create and activate a virtual environment:
 python -m venv .venv
 ```
 
+Install the requirements
+```bash
+python install -r requirement.txt
+```
+
 macOS or Linux:
 
 ```bash
